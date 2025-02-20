@@ -1,0 +1,26 @@
+PROGRAMACION DE CLASES
+-------------------------------------------------
+Clase 1: 19.FEB.2025: 
+Clase 2: 21.FEB.2025: 
+Clase 3: 24.FEB.2025: Practica 1
+Clase 4: 26.FEB.2025: 
+Clase 5: 28.FEB.2025: Practica 2
+Clase 6: 03.MAR.2025: Practica 3
+Clase 7: 05.MAR.2025: Practica 4
+Clase 8: 07.MAR.2025: Examen Final
+ 
+
+NOTA
+-------------------------------------------------
+Las practicas son sincronas en hora de clase.
+
+
+SISTEMA DE CALIFICACIÓN
+-------------------------------------------------
+- 4 Practicas Calificadas
+- 1 Examen Final
+
+
+PP = ( PC1 + PC2 + PC3 + PC4 - MenorPC ) / 3
+PF = ( PP + EF ) / 2
+
