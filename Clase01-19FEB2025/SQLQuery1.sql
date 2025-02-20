@@ -1,0 +1,4 @@
+
+
+select SYSTEM_USER [LOGIN ID], USER_NAME() [USER DATABASE]
+
