@@ -1,10 +1,10 @@
-![IMPLEMENTACION DE BASE DE DATOS SQL SERVER](https://raw.githubusercontent.com/gcoronelc/CEPSUNI-SQL1-64918/main/img/portada.png)
+![IMPLEMENTACION DE BASE DE DATOS SQL SERVER](https://raw.githubusercontent.com/gcoronelc/CEPSUNI-SQL1-67489/main/img/portada.png)
 
 # DATOS GENERALES
 
 - Lugar: CEPS-UNI
-- Horario: Sabados de 14 - 18 Horas
-- Inicio: 30.NOV.2024
+- Horario: LU, MI y VI de 19 - 22 Horas
+- Inicio: 19.FEB.2025
 - Duración: 24 Horas
 - Dirección: https://goo.gl/maps/6JRfgrEPkLYR4AVn6
 - Cursos virtuales: https://gcoronelc.github.io/
